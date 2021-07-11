@@ -7,5 +7,5 @@
   "isUsingImageLocal": true,
   "secret": "2b42125279624ce083bedadf742e8522",
   "videoAdsSecond": 20,
-  "isHidenTabbar": true
+  "isHidenTabbar": false
 }
