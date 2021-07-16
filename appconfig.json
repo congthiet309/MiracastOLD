@@ -2,7 +2,7 @@
   "isShowInterstitial": true,
   "isShowSubFirst": false,
   "isPremiumContent": true,
-  "isSubscription":false,
+  "isSubscription":true,
   "isFreeAds": true,
   "isUsingImageLocal": true,
   "secret": "df35ebb8979d4bb591263a19c2d5c217",
