@@ -1,7 +1,7 @@
 {
   "isShowInterstitial": true,
   "isShowSubFirst": false,
-  "isPremiumContent": false,
+  "isPremiumContent": true,
   "isSubscription":true,
   "isFreeAds": true,
   "isUsingImageLocal": true,
